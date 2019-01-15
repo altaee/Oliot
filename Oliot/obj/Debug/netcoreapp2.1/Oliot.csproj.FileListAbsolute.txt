@@ -1,0 +1,11 @@
+/Users/zahraa/Desktop/CodeBootCamp/C#/Oliot/Oliot/bin/Debug/netcoreapp2.1/Oliot.deps.json
+/Users/zahraa/Desktop/CodeBootCamp/C#/Oliot/Oliot/bin/Debug/netcoreapp2.1/Oliot.runtimeconfig.json
+/Users/zahraa/Desktop/CodeBootCamp/C#/Oliot/Oliot/bin/Debug/netcoreapp2.1/Oliot.runtimeconfig.dev.json
+/Users/zahraa/Desktop/CodeBootCamp/C#/Oliot/Oliot/bin/Debug/netcoreapp2.1/Oliot.dll
+/Users/zahraa/Desktop/CodeBootCamp/C#/Oliot/Oliot/bin/Debug/netcoreapp2.1/Oliot.pdb
+/Users/zahraa/Desktop/CodeBootCamp/C#/Oliot/Oliot/obj/Debug/netcoreapp2.1/Oliot.csprojAssemblyReference.cache
+/Users/zahraa/Desktop/CodeBootCamp/C#/Oliot/Oliot/obj/Debug/netcoreapp2.1/Oliot.csproj.CoreCompileInputs.cache
+/Users/zahraa/Desktop/CodeBootCamp/C#/Oliot/Oliot/obj/Debug/netcoreapp2.1/Oliot.AssemblyInfoInputs.cache
+/Users/zahraa/Desktop/CodeBootCamp/C#/Oliot/Oliot/obj/Debug/netcoreapp2.1/Oliot.AssemblyInfo.cs
+/Users/zahraa/Desktop/CodeBootCamp/C#/Oliot/Oliot/obj/Debug/netcoreapp2.1/Oliot.dll
+/Users/zahraa/Desktop/CodeBootCamp/C#/Oliot/Oliot/obj/Debug/netcoreapp2.1/Oliot.pdb

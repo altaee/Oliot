@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{DFCC9325-83A3-452A-9722-89B8257F7F10}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Oliot/Program.cs">
+    <Files>
+      <File FileName="Oliot/Program.cs" Line="10" Column="45" />
+      <File FileName="Oliot/Auto.cs" Line="10" Column="36" />
+      <File FileName="Oliot/UrheiluAuto.cs" Line="9" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Oliot PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
